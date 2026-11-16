@@ -1,0 +1,11 @@
+spam
+mail
+dev
+admin
+ftp
+vpn
+api
+staging
+test
+blog
+shop
